@@ -1,1 +1,10 @@
-# Compy-Graphic-and-Visualization
+# Comp-Graphic-and-Visualization
+
+# How do I approach designing software?
+Firstly, I need a strong understanding of the project scope, the expected outcomes, the intended purpose, and feedback. These are key elements in ensuring I design and create software that my shareholders expect and desire. Secondly, designing and planning go hand in hand. Over this course, I learned how to create basic 3D shapes, transform those shapes, apply textures, lighting, and much more. These skills give off a sense of realism to my projects and allow me to communicate my creativity through the realm of 3D shapes. In addition, manipulating the environment to achieve an accurate reflection is paramount to success and by determining the effects that OpenGL has on the GPU has opened up many possibilites I can use in future projects.
+
+# How do I approach developing programs?
+Iteration plays an important role in creating an accurate 3D rendering. Throughout this course, we built our final project through multiple project milestones which each introduced new concepts and skills, and subsequently worked in conjunction to provide the most realistic outcome. This approach was useful in breaking down the large project into manageable chunks which highlights the role iteration plays in today's software development environment. I'll continue to use this approach as it allows for quick responsive solutions and manageable outputs.
+
+# How can computer science help me in reaching my goals?
+Comp graphics and visualization has opened my eyes to the possibility of 3D rendering as a professional career. I oftentimes thought of these "creative" roles as something less technical. However, after reviewing my work and assessing the amount of time it took to create and understand this environment, I quickly learned that it not only takes creativity to strive in this field, but an advanced and technical mindset to create extremely accurate 3D renderings. I'll be taking this newfound knowledge and skillset with me to future projects and hopefully future roles in order to provide a more well-rounded and robust skillset to any team I become apart of.
